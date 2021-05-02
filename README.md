@@ -10,3 +10,15 @@ The prupose of this analysis was to examine temperature trends/weather trends in
 
 ## Summary
 Overall the temperature for both these months generally range between the low to high 70's. The standarad deviation for June and December sits at approximatley 3.3 and 3.7 respectively, so we can infer there is not a large amount of variability in the teperature data. Additionally, when examining the results for the quartiles, we can render similar conclusions (see below). Two additionally queries were created to examine the precipitation levels for both these months, with precipitation appearing only slightly higher in December as opposed to June (see below). 
+
+### June Temperature Metrics
+![june_temps_describe](https://github.com/vanessamignelli/surfs_up/blob/main/resources/june_temps_describe.png)
+
+### December Temperature Metrics
+![december_temps_describe](https://github.com/vanessamignelli/surfs_up/blob/main/resources/december_temps_describe.png)
+
+### June Precipitation Metrics
+![june_prcp_describe](https://github.com/vanessamignelli/surfs_up/blob/main/resources/june_prcp_describe.png)
+
+### December Precipitation Metrics
+![december_prcp_describe](https://github.com/vanessamignelli/surfs_up/blob/main/resources/december_prcp_describe.png)
